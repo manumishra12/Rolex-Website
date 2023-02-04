@@ -2,7 +2,7 @@
 ``` Rolex Watch Website made using Html, CSS and Javascript```
 
 <div align="left" >
-  <h2> <img src = "https://github.com/manumishra12/Flutter_Notes/blob/main/Readme_Stuff/Flutter%20Gif.gif?raw=true" width = 500px height=400px> </h2>
+  <h2> <img src = "https://github.com/manumishra12/Rolex-Website/blob/main/Rolex%20Watch%20.gif" width = 800px height=450px> </h2>
 </div>
 
 

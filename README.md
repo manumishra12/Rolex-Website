@@ -1,6 +1,11 @@
 # Rolex-Website ⌚
 ``` Rolex Watch Website made using Html, CSS and Javascript```
 
+<div align="left" >
+  <h2> <img src = "https://github.com/manumishra12/Flutter_Notes/blob/main/Readme_Stuff/Flutter%20Gif.gif?raw=true" width = 500px height=400px> </h2>
+</div>
+
+
 <p> 
 Rolex is a luxury Swiss watch brand founded in 1905. It is well known for its high-quality and precise timepieces, and has become a symbol of luxury and status. Rolex offers a wide range of styles and designs for both men and women, including dress watches, sports watches, and diving watches. 
 </p> 
